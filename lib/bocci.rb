@@ -1,5 +1,9 @@
 require "bocci/version"
 
 module Bocci
-  # Your code goes here...
+
+	def self.greet
+		'Hello World!'
+	end
+	
 end
